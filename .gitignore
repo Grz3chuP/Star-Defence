@@ -17,6 +17,18 @@
 mono_crash.*
 
 # Build results
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
